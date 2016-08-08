@@ -1,0 +1,10 @@
+#EHCache Configuration
+spring:
+  cache:
+    jcache:
+      config: ehcache.xml
+      
+#Tomcat Server Configuration
+server:
+    port: 8080
+    contextPath: /model-repository
