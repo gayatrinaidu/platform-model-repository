@@ -1,0 +1,8 @@
+/bin/
+/.settings/
+/build/
+/gradle/
+/.classpath
+/.project
+/.gradle/
+/target/entity.db/
