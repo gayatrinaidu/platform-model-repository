@@ -6,3 +6,8 @@
 /.project
 /.gradle/
 /target/entity.db/
+/build.gradle
+/gradle.properties
+/gradlew
+/gradlew.bat
+/settings.gradle
